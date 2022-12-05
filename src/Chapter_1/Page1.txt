@@ -1,0 +1,8 @@
+From the top menu find the VCS option
+- Click Enable Version Control
+Integration
+- Select the git option from the pop-up
+window
+* It will create a git repository for your
+project
+? Which kind of repository ?

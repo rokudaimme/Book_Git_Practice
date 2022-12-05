@@ -1,0 +1,4 @@
+? Where are the files now ?
+- Check the history by clicking the git tab from the bottom left
+- Can also be opening from Git menu -> Show git log
+- From here we can see the history of our repository
