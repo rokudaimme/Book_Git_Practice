@@ -2,4 +2,3 @@
 - Commit the file
 - Now push the file
 - To push a file go to the Git menu -> Push
-- In the next popup click push
