@@ -1,5 +1,5 @@
 .idea
-*.iml;
+*.iml
 out
-*.xml;
+*.xml
 /Book_Git_Practice.iml
